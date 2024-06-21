@@ -1,0 +1,52 @@
+[
+  {
+    "name": "John Doe",
+    "email": "johndoe@gmail.com",
+    "phone": "9876543210",
+    "github_link": "https://github.com/johndoe/my_task",
+    "stopwatch_time": "00:01:19"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "janesmith@gmail.com",
+    "phone": "1234567890",
+    "github_link": "https://github.com/janesmith/my_task",
+    "stopwatch_time": "00:02:30"
+  },
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "555-1234",
+    "github_link": "https://github.com/alicejohnson",
+    "stopwatch_time": "00:05:30"
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "phone": "555-5678",
+    "github_link": "https://github.com/bobsmith",
+    "stopwatch_time": "00:12:45"
+  },
+  {
+    "name": "Carol Lee",
+    "email": "carol.lee@example.com",
+    "phone": "555-9876",
+    "github_link": "https://github.com/carollee",
+    "stopwatch_time": "00:03:15"
+  },
+  {
+    "name": "Dave Brown",
+    "email": "dave.brown@example.com",
+    "phone": "555-6543",
+    "github_link": "https://github.com/davebrown",
+    "stopwatch_time": "00:09:50"
+  },
+  {
+    "name": "Eve Davis",
+    "email": "eve.davis@example.com",
+    "phone": "555-4321",
+    "github_link": "https://github.com/evedavis",
+    "stopwatch_time": "00:07:05"
+  }
+]
+
